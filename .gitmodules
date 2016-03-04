@@ -1,7 +1,7 @@
 [submodule "libs/devlib"]
 	path = libs/devlib
-	url = https://github.com/derkling/devlib.git
-	branch = devlib-next
+	url = https://github.com/BayLibre/devlib.git
+	branch = lisa-cpufreq-sysfs-fix
 [submodule "libs/trappy"]
 	path = libs/trappy
 	url = https://github.com/ARM-Software/trappy.git
